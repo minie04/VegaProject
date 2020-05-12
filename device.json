@@ -148,5 +148,80 @@
         "BINX" : "https://pantech.kongjak.com/BINX/",
         "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
         "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-A870K" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-A870L" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-A870S" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-A880S" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-A890S" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-A890K" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-A900K" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-A900L" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-A900S" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-A910K" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-A910L" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-A910S" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-100S" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-100K" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
+    },
+    "IM-T100K" : {
+        "BINX" : "https://pantech.kongjak.com/BINX/",
+        "Update.zip" : "https://pantech.kongjak.com/Update_Zip/",
+        "PDL" : "https://pantech.iroot.kr/firmware/"
     }
 }
