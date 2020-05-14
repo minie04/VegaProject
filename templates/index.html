@@ -13,10 +13,10 @@
                 </b><br>
                 <h5>원하시는 펌웨어의 모델명을 쳐주세요. <br> BINX, 업뎃집, PDL을 다운로드 해줍니다.</h5><br>
             </div>
-            <form action="/download_finish" method="post">
+            <form action="/download" method="post">
                 <div class="mx-auto" style="width:70%;">
                     <div class="input-group mb-3" style="width:100%;">
-                        <input type="text" class="form-control" placeholder="모델명 입력" aria-label="모델명 입력" aria-describedby="basic-addon2">
+                        <input type="text" class="form-control" name="model" placeholder="모델명 입력" aria-label="모델명 입력" aria-describedby="basic-addon2">
                         <div class="input-group-append">
                             <button id="basic-addon2" type="submit" class="btn btn-info">다운로드</button>
                         </div>
