@@ -6,28 +6,28 @@ app = Flask (__name__)
 
 def getDevice (model):
     with open("device.json") as json :
-        data = orjson.loads(json)
-    returnValue = data[model.upper]
+        data = orjson.loads(json.read())
+    print (data, flush=True)
+    returnValue = data[model]
     return returnValue
 
 
 @app.route('/')
-def main () :
+def main ():
     return render_template("index.html")
 
-@app.route('/download', methods = ['POST', 'GET'])
-def device () :
+
+@app.route('/download', methods =  ['POST', 'GET' ])
+def device ():
     if request.method == "POST":
         try:
-            try:
-                form = request.form
-                model = form.get("model")
-                json = getDevice(model)
-                sys.stdout.flush(model)
-            except (IndexError, KeyError):
-                return "."
+            form = request.form
+            model = form.get("model")
+            json = getDevice(model)
+            print (json, flush=True)
         except Exception as e:
             error = "{}".format(e)
+            print (error, flush=True)
             return error
     else:
         return render_template("index.html")
