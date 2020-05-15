@@ -24,9 +24,8 @@ def device ():
             form = request.form
             model = form.get("model")
             json = getDevice(model)
-            print (json[0])
             return render_template ("download.html",
-                name = json[0]["name"], model = model, image = '',
+                name = json[0]["name"], model = model, image = json[0]["image"],
                 binx = json[0]["binx"], pdl = json[0]["pdl"], update = json[0]["update"],
                 binxversion = json[0]["versions"][0], pdlversion = json[0]["versions"][1], zipversion = json[0]["versions"][2]
             )

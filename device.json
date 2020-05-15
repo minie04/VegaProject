@@ -300,11 +300,12 @@
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A910S" :   [{
-        "name" : "SKY 베가",
-        "versions" :  ["", "", ""],
-        "binx" : "http://vpdw.mnsv.best/BINX",
-        "update" : "http://vpdw.mnsv.best/ZIP",
-        "pdl" : "http://vpdw.mnsv.best/PDL"
+        "name" : "베가 아이언 2",
+        "versions" :  ["S1239127", "S0224129", "S0224129"],
+        "image" : "https://w.namu.la/s/931dbb60dd973d305a1e887ab30fd34e1fd0520070f298663915c1eff1f22da59273649e2d2425e934b4289b93d3a0040c47780854e99bdbb3170e152f872227786baf7b15ef7f5961787f3e87b7a4ae2d1b495834b3f230aedfb1cba574e869",
+        "binx" : "http://vpdw.mnsv.best/BINX/IM-A910L_S1239127.BINX",
+        "update" : "http://vpdw.mnsv.best/ZIP/IM-A910S_S0224129.zip",
+        "pdl" : "http://vpdw.mnsv.best/PDL/IM-A910S_S0224129.pdl/IM-A910S_S0224129.pdl"
       }],
     "IM-A920S" :   [{
         "name" : "SKY 베가",
