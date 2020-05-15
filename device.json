@@ -1,7 +1,8 @@
  {
-    "IM-A600S" :   [{
+    "IM-bA600S" :   [{
         "name" : "SKY 시리우스",
         "versions" :  ["", "", ""],
+        "image" : "",
         "binx" : "http://vpdw.mnsv.best/BINX",
         "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
@@ -9,6 +10,7 @@
     "IM-A630K" : [{
         "name" : "SKY 이자르",
         "versions" :  ["", "", ""],
+        "image" : "",
         "binx" : "http://vpdw.mnsv.best/BINX",
         "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
@@ -16,6 +18,7 @@
     "IM-A650S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
+        "image" : "",
         "binx" : "http://vpdw.mnsv.best/BINX",
         "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
@@ -23,6 +26,7 @@
     "IM-A690L" :   [{
         "name" : "SKY 미라크",
         "versions" :  ["", "", ""],
+        "image" : "",
         "binx" : "http://vpdw.mnsv.best/BINX",
         "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
@@ -30,6 +34,7 @@
     "IM-A690S" :   [{
         "name" : "SKY 미라크",
         "versions" :  ["", "", ""],
+        "image" : "",
         "binx" : "http://vpdw.mnsv.best/BINX",
         "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
@@ -37,6 +42,7 @@
     "IM-A710K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
+        "image" : "",
         "binx" : "http://vpdw.mnsv.best/BINX",
         "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
@@ -44,6 +50,7 @@
     "IM-A710L" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
+        "image" : "",
         "binx" : "http://vpdw.mnsv.best/BINX",
         "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
@@ -51,6 +58,7 @@
     "IM-A720L" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
+        "image" : "",
         "binx" : "http://vpdw.mnsv.best/BINX",
         "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
@@ -58,6 +66,7 @@
     "IM-A730S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
+        "image" : "",
         "binx" : "http://vpdw.mnsv.best/BINX",
         "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
@@ -65,6 +74,7 @@
     "IM-A740S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
+        "image" : "",
         "binx" : "http://vpdw.mnsv.best/BINX",
         "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
@@ -72,6 +82,7 @@
     "IM-A750K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
+        "image" : "",
         "binx" : "http://vpdw.mnsv.best/BINX",
         "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
@@ -79,6 +90,7 @@
     "IM-A760S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
+        "image" : "",
         "binx" : "http://vpdw.mnsv.best/BINX",
         "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
@@ -86,6 +98,7 @@
     "IM-A770K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
+        "image" : "",
         "binx" : "http://vpdw.mnsv.best/BINX",
         "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
@@ -287,6 +300,13 @@
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A910S" :   [{
+        "name" : "SKY 베가",
+        "versions" :  ["", "", ""],
+        "binx" : "http://vpdw.mnsv.best/BINX",
+        "update" : "http://vpdw.mnsv.best/ZIP",
+        "pdl" : "http://vpdw.mnsv.best/PDL"
+      }],
+    "IM-A920S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",

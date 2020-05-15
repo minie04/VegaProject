@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ko">
+      <head>
+      {% include 'head.html' %}
+      </head>
+      <body>
+      {% include 'navbar.html' %}
+            <div class="container" style="margin-top:5%">
+                  <div class="mx-auto" style="width: 100%; text-align: center;">
+                        <h1 id="title-text">{{ name }} - {{ model }}</h1>
+                        BINX : {{ binxversion }}, PDL : {{ pdlversion }}, 업뎃집 : {{ zipversion }}<br><br>
+                        <img src="{{ image }}" class="img-fluid" style="width:30%;"><br>
+                        {% if binx != '' %}
+                              <a href="{{ binx }}" download=""><button id ="binx" type="submit" class="btn btn-info">BINX 다운로드</button></a>
+                        {% endif %}
+                        {% if pdl != '' %}
+                              <a href="{{ pdl }}" download=""><button id ="pdl" type="submit" class="btn btn-info">PDL 다운로드</button></a>
+                        {% endif %}
+                        {% if update.zip != '' %}
+                              <a href="{{ update }}" download=""><button id ="update" type="submit" class="btn btn-info">Update.zip 다운로드</button></a>
+                        {% endif %}
+                  </div>
+            </div>
+      </body>
+</html>

@@ -17,20 +17,21 @@ def main ():
     return render_template("index.html")
 
 
-@app.route('/download', methods =  ['POST', 'GET' ])
+@app.route('/download', methods =  ['POST', 'GET'])
 def device ():
     if request.method == "POST":
         try:
-            try:
-                form = request.form
-                model = form.get("model")
-                json = getDevice(model)
-                print (json, flush=True)
-            except (IndexError, KeyError):
-                return render_template("deviceNotFound.html")
-        except Exception as e:
-            print (e, flush=True)
-            return "."
+            form = request.form
+            model = form.get("model")
+            json = getDevice(model)
+            print (json[0])
+            return render_template ("download.html",
+                name = json[0]["name"], model = model, image = '',
+                binx = json[0]["binx"], pdl = json[0]["pdl"], update = json[0]["update"],
+                binxversion = json[0]["versions"][0], pdlversion = json[0]["versions"][1], zipversion = json[0]["versions"][2]
+            )
+        except (IndexError, KeyError):
+            return render_template("deviceNotFound.html")
     else:
         return render_template("index.html")
 
