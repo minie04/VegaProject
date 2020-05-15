@@ -3,315 +3,315 @@
         "name" : "SKY 시리우스",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
     }],
     "IM-A630K" : [{
         "name" : "SKY 이자르",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
     }],
     "IM-A650S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A690L" :   [{
         "name" : "SKY 미라크",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A690S" :   [{
         "name" : "SKY 미라크",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A710K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A710L" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A720L" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A730S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A740S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A750K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A760S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A770K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A775C" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A780L" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A800S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A810K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A820L" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A830K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A830KE" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A830L" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A830S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A840S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A840SP" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A850K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A850L" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A850S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A860K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A860L" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A860S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A870K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A870L" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A870S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A880S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A890S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A890K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A900K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A900L" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A900S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A910K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A910L" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-A910S" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-100S" :   [{
         "name" : "SKY 아임백",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-100K" :   [{
         "name" : "SKY 아임백",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }],
     "IM-T100K" :   [{
         "name" : "SKY 베가",
         "versions" :  ["", "", ""],
         "binx" : "http://vpdw.mnsv.best/BINX",
-        "update.zip" : "http://vpdw.mnsv.best/ZIP",
+        "update" : "http://vpdw.mnsv.best/ZIP",
         "pdl" : "http://vpdw.mnsv.best/PDL"
       }]
 }

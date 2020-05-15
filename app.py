@@ -7,8 +7,8 @@ app = Flask (__name__)
 def getDevice (model):
     with open("device.json") as json :
         data = orjson.loads(json.read())
-    print (data, flush=True)
-    returnValue = data[model]
+    query = model.upper()
+    returnValue = data[query]
     return returnValue
 
 
@@ -21,14 +21,16 @@ def main ():
 def device ():
     if request.method == "POST":
         try:
-            form = request.form
-            model = form.get("model")
-            json = getDevice(model)
-            print (json, flush=True)
+            try:
+                form = request.form
+                model = form.get("model")
+                json = getDevice(model)
+                print (json, flush=True)
+            except (IndexError, KeyError):
+                return render_template("deviceNotFound.html")
         except Exception as e:
-            error = "{}".format(e)
-            print (error, flush=True)
-            return error
+            print (e, flush=True)
+            return "."
     else:
         return render_template("index.html")
 
