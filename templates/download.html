@@ -5,8 +5,9 @@
       </head>
       <body>
       {% include 'navbar.html' %}
-            <div class="container" style="margin-top:5%">
+            <div class="container" id="thiss">
                   <div class="mx-auto" style="width: 100%; text-align: center;">
+                        <br><br>
                         <h1 id="title-text">{{ name }} - {{ model }}</h1>
                         아래 버튼을 클릭하여 다운로드 하세요.<br><br>
                         <img src="{{ image }}" class="img-fluid" style="width:30%;"><br>
@@ -21,6 +22,8 @@
                               <a href="{{ update }}" download=""><button id ="update" type="submit" class="btn btn-info">Update.zip - {{ zipversion }}</button></a>
                         {% endif %}
                   </div>
+                  <br>
+                  <br>
                   <br>
                   <br>
                   <br>
