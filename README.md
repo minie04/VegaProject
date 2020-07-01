@@ -25,6 +25,4 @@ sudo su
 cd VegaProject
 python3 app.py
 ```
-
-## 연락망
-디스코드 fxrcha#6696, 이메일 truetype24@gmail.com
+## 이 프로젝트는 더이상 진행되지 않습니다. / This project is discounted.
