@@ -25,4 +25,4 @@ sudo su
 cd VegaProject
 python3 app.py
 ```
-## 이 프로젝트는 더이상 진행되지 않습니다. / This project is discounted.
+## 이 프로젝트는 계속 진행됩니다.
