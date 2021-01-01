@@ -1,7 +1,7 @@
 import orjson
 import logging
 import sys
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, Response
 app = Flask (__name__)
 
 def getDevice (model):
@@ -15,6 +15,7 @@ def getDevice (model):
 @app.route('/')
 def main ():
     return render_template("index.html")
+    
 
 
 @app.route('/download', methods =  ['POST', 'GET'])
@@ -39,5 +40,5 @@ def device ():
 def no_page (error):
     return render_template ("404.html")
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8000)
+if __name__ == '__main__':
+    app.run()
